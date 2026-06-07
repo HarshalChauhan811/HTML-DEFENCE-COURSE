@@ -14,7 +14,7 @@
 - 📏 **Spacing:** `<br>`, `<hr>`
 - 🎯 **Best Practices:** One `<h1>`, proper hierarchy, always use `alt` in images
 
----
+--- 
 
 # 📘 **Lecture 02 — Nested Lists & Tables**
 ### 🔹 *Organizing Data Like a Pro*
