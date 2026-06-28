@@ -8,7 +8,7 @@
 ### 🔹 *Foundation of the Web*
 - 🌍 **HTML = HyperText Markup Language**
 - 🔗 Hypertext → Linked pages (navigation)
-- 🏷 Markup → Tags give structure and meaning 
+- 🏷 Markup → Tags give structure and meaning   
 - 🛠 **Setup:** VS Code + Live Server + Prettier
 - ✏️ **Core Tags:** `<h1>`–`<h6>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<ol>`, `<li>`
 - 📏 **Spacing:** `<br>`, `<hr>`
